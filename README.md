@@ -1,6 +1,6 @@
 # Data Lovers
 
-Proyecto de @mf222 y @mf22222s
+Proyecto de @mf222 y @mf22222
 
 ## Índice
 
